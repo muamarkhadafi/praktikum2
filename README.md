@@ -17,7 +17,7 @@
 **Screenshoot**
 ![Screnshoot](https://raw.githubusercontent.com/muamarkhadafi/praktikum2/master/latihan1amareng.png)
 code program lengkap 
-'''c++
+```c++
 #include <iostream>
 
 using namespace std;
@@ -41,7 +41,7 @@ int main()
 
     }
 }
-
+```
 
 latihan2.cpp :program menghitung bilangan terbesar dari 4 bilang
 Alur algoritma
@@ -63,7 +63,7 @@ Alur algoritma
 ![screnshoot](https://raw.githubusercontent.com/muamarkhadafi/praktikum2/master/latihan2amareng.png)
 
 code program lengkap 
-'''c++
+```c++
 
 #include <iostream>
 
@@ -92,3 +92,4 @@ int main()
             cout << "bilangan terbesar = " << D;
     }
 }
+```
